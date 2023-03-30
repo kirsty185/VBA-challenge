@@ -25,7 +25,7 @@ For Each ws In Worksheets
     Total_Stock_Volume = 0
     
 'start
-Dim start_data As Integer
+'Dim start_data As Integer
 
 
     
